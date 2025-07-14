@@ -180,8 +180,7 @@ I've identified a critical UX gap in your platforms and built a working solution
 **Personal Information** : Taksh Shah , Ahmedabad , Gujarat , India
 **Contact Information**: taksh.pdeu@gmail.com (Student at Pandit Deendayal Energy University Computer Science Engineering 2028) 
 **Linkedin Information**: www.linkedin.com/in/taksh-shah
-**GitHub Repository**: [Complete implementation with documentation]
-**Demo Video**: [Link to working demonstration]
+**Demo Video**: https://drive.google.com/drive/folders/197VKpwRuQKaSSpCFjUGICwWTVGgFZgbh?usp=sharing
 
 *"The best way to predict the future is to invent it." - Alan Kay*
 
