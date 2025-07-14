@@ -1,8 +1,6 @@
 # HAND-GESTURE-CONTROLLER-FOR-GOOGLE-AND-META
-# Revolutionary Gesture Control for Short-Form Video Platforms
-## A Game-Changing Solution for YouTube Shorts & Instagram Reels
-
-Demo Video Link : https://drive.google.com/drive/folders/197VKpwRuQKaSSpCFjUGICwWTVGgFZgbh?usp=sharing
+# A Game-Changing Solution for YouTube Shorts & Instagram Reels
+## Demo Video Link : https://drive.google.com/drive/folders/197VKpwRuQKaSSpCFjUGICwWTVGgFZgbh?usp=sharing
 
 ---
 
